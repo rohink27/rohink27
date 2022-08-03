@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rohink27
+- 👋 Hi, I’m Rohin Khanapure
 - 👀 I’m interested in programming and robotics
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on project
