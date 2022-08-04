@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Rohin Khanapure
+- 👋 Hi, I’m Rohin Khanapure, I'm 18 years old.
 - 👀 I’m interested in programming and robotics
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on project
+- 💞️ I’m looking to collaborate on projects.
 -   Have knowledge of Java, Python and Arduino.
 -   Learn basic web developement using Spring boot and security.
 - 📫 Contact me at rohink27@gmail.com
